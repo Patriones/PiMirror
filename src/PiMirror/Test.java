@@ -11,5 +11,6 @@ public class Test {
 		System.out.println(pi.temperature);
 		System.out.println(pi.time);
 		System.out.println(pi.condition);
+		
 	}
 }
